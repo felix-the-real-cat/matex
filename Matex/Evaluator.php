@@ -2,7 +2,7 @@
 
 namespace Matex;
 
-class Exception extends \Exception {}
+class MatexException extends \Exception {}
 
 class Evaluator {
 
